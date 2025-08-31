@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jasa Bongkar Rumah</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 20px;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background: #222;
+      color: #fff;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Jasa Bongkar Rumah</h1>
+  </header>
+
+  <section>
+    <p>Kami melayani jasa bongkar rumah dengan cepat, rapi, dan profesional.</p>
+    <p>Hubungi kami untuk konsultasi dan survei gratis.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Jasa Bongkar Rumah</p>
+  </footer>
+</body>
+</html>
